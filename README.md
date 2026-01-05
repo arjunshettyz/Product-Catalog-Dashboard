@@ -1,6 +1,6 @@
 # InventoryPro - Product Catalog Dashboard
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![React](https://img.shields.io/badge/React-18.x-blue) ![Vite](https://img.shields.io/badge/Vite-5.x-purple)
+
 
 A modern, responsive product inventory management application built with **React** and **Vite**. Features a premium dark-themed UI with grid/list views, real-time search, and intuitive product management.
 
